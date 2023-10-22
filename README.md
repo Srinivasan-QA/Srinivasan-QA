@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 Experienced QA professional proficient in testing of web application and a deep understanding of the software test life cycle.
 Specialized in performing system, functional, regression, and confirmation testing.
 Proficient in designing and implementing test cases.
-Expertise in writing test scripts using selenium API, Java programming and using TestNG framework.
+Expertise in writing test scripts using selenium API, Java programming and through TestNG framework.
